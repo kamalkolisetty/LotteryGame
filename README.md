@@ -177,20 +177,3 @@ The CSS file defines classes for applying padding to the components:
   padding: 10px 15px 20px 25px; /* top right bottom left */
 }
 ```
-
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the content based on your specific project details and requirements.
