@@ -1,8 +1,8 @@
-
-```markdown
-# R LotteryGame
+# React Lottery App
 
 This is a simple React application that allows users to input values for `n` and `winningSum`, and displays a `Lottery` component based on these inputs. The project demonstrates how to handle user inputs and apply padding dimension-wise using both inline styles and CSS classes.
+
+
 
 ## Project Structure
 
